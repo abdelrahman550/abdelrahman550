@@ -1,4 +1,4 @@
-## 👋 About Me
+## 👋 Hi!
 
 I'm a frontend developer building real-world web products with **React** and **Next.js**, currently studying Computer Science at Tanta University. I care about clean code, great UX, and shipping things that work.
 
