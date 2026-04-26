@@ -32,3 +32,17 @@ I'm a frontend developer building real-world web products with **React** and **N
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com/?user=abdelrahman550&theme=midnight-purple&hide_border=true)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman550&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
