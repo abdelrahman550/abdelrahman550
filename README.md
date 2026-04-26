@@ -1,13 +1,3 @@
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7¢er=true&vCenter=true&width=500&lines=Frontend+Developer;React+%26+Next.js+Builder;CS+Student+%40+Tanta+University;Shipping+Real-World+Products" alt="Typing SVG" />
-</a>
-
-</div>
-
----
-
 ## 👋 About Me
 
 I'm a frontend developer building real-world web products with **React** and **Next.js**, currently studying Computer Science at Tanta University. I care about clean code, great UX, and shipping things that work.
@@ -42,37 +32,3 @@ I'm a frontend developer building real-world web products with **React** and **N
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman550&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
-
-<br/>
-
-![Streak](https://streak-stats.demolab.com/?user=abdelrahman550&theme=midnight-purple&hide_border=true)
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman550&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=abdelrahman550&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=abdelrahman550&icon=6&color=9" alt="Profile Views" />
-</div>
