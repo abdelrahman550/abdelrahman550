@@ -39,6 +39,10 @@ I'm a frontend developer building real-world web products with **React** and **N
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman550&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
+
+<br/>
+
 ![Streak](https://streak-stats.demolab.com/?user=abdelrahman550&theme=midnight-purple&hide_border=true)
 
 <br/>
